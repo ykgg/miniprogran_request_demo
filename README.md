@@ -1,5 +1,5 @@
 # miniprogran_request_demo
-小程序网络请求封装
+### 小程序网络请求封装
 
 ####  1、http.js是封装了promise,属于一级封装
 
